@@ -14,5 +14,5 @@ if you want to use proxy from github source etc, then generate 100 user agents
 
 ### PROXY
 you can use your own proxy (simply paste to proxy.txt file) or you can choose free proxy from github etc.
-(MUST RAW TXT FORMAT)
-Proxy format in proxy txt : user:pw@host:port
+#### (MUST RAW TXT FORMAT)
+###### Proxy format in proxy txt : user:pw@host:port
