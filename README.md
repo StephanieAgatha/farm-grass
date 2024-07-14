@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/StephanieAgatha/farm-grass.git
 cd farm-grass
-chmod +x grass_linux.sh && ./grass_linux.sh
+chmod +x grass_linux && ./grass_linux
 ```
 ### USER AGENT REQUIRED
 generate user agent from https://iplogger.org/useragents/ and paste to ug.txt
