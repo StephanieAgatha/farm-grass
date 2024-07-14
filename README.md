@@ -1,5 +1,7 @@
 #### This version is for linux only
 
+![image](https://github.com/user-attachments/assets/01b7ca62-b336-49c3-970e-667ba0543a37)
+
 #### How to run it? 
 
 ```bash
